@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>date.txt</file>
+        <file>version.txt</file>
+        <file>logo.png</file>
+    </qresource>
+</RCC>
